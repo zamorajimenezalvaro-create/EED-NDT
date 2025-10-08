@@ -27,10 +27,3 @@ _Configura tu nombre y correo electr√≥nico en Git. Se usan para identificar qui√
 - __git push origin <rama>__ -> _Sube tus commits al repositorio remoto (por ejemplo, GitHub)._
   
 - __git pull__ -> _Descarga y fusiona los cambios del repositorio remoto en tu rama actual._
-
-  # Ejemplos
-
-  ![1](C:\Users\User\Pictures\Screenshots)
-
-
-
