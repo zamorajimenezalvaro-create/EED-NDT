@@ -32,7 +32,8 @@ _Configura tu nombre y correo electr√≥nico en Git. Se usan para identificar qui√
 
 - ![1](https://github.com/zamorajimenezalvaro-create/EED-NDT/blob/main/T1/img/Captura%20de%20pantalla%202025-10-08%20180144.png)
 
--![2](https://github.com/zamorajimenezalvaro-create/EED-NDT/blob/main/T1/img/Captura%20de%20pantalla%202025-10-08%20181709.png)
+- ![2](https://github.com/zamorajimenezalvaro-create/EED-NDT/blob/main/T1/img/Captura%20de%20pantalla%202025-10-08%20181709.png)
+
 
 
 
