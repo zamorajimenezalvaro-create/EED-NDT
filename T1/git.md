@@ -2,30 +2,35 @@
 
 # Comandos
 
-- __git config__ --global user.name "Tu Nombre"
+- __git config --global user.name "Tu Nombre"__
 
-- __git config__ --global user.email "tuemail@ejemplo.com"
+- __git config --global user.email "tuemail@ejemplo.com"__
 
-Configura tu nombre y correo electrónico en Git. Se usan para identificar quién hizo cada cambio.
+_Configura tu nombre y correo electrónico en Git. Se usan para identificar quién hizo cada cambio._
 
-- __git init__ -> Crea un nuevo repositorio Git en el directorio actual.
+- __git init__ -> _Crea un nuevo repositorio Git en el directorio actual._
   
-- __git clone__ <url-del-repositorio> -> Copia un repositorio remoto completo en tu máquina local.
+- __git clone <url-del-repositorio>__ -> _Copia un repositorio remoto completo en tu máquina local._
   
-- __git status__ -> Muestra que archivos han cambiado.
+- __git status__ -> _Muestra que archivos han cambiado._
   
-- __git add__ <archivo> -> Prepara archivos para ser confirmados (commit).
+- __git add <archivo>__ -> _Prepara archivos para ser confirmados (commit)._
   
-- __git add .__ -> Agrega todos los archivos modificados.
+- __git add .__ -> _Agrega todos los archivos modificados._
   
-- __git commit__ -m "Mensaje descriptivo del cambio" -> Guarda los cambios añadidos con git add, junto con un mensaje explicativo.
+- __git commit -m "Mensaje descriptivo del cambio"__ -> _Guarda los cambios añadidos con git add, junto con un mensaje explicativo._
   
-- __git log__ -> Muestra un historial de commits, con detalles como el autor, fecha y mensaje del commit.
+- __git log__ -> _Muestra un historial de commits, con detalles como el autor, fecha y mensaje del commit._
   
-- __git diff__ -> Muestra las diferencias entre el contenido actual y el último commit.
+- __git diff__ -> _Muestra las diferencias entre el contenido actual y el último commit._
   
-- __git push origin <rama>__ -> Sube tus commits al repositorio remoto (por ejemplo, GitHub).
+- __git push origin <rama>__ -> _Sube tus commits al repositorio remoto (por ejemplo, GitHub)._
   
-- __git pull__ -> Descarga y fusiona los cambios del repositorio remoto en tu rama actual.
+- __git pull__ -> _Descarga y fusiona los cambios del repositorio remoto en tu rama actual._
+
+  # Ejemplos
+
+  ![1](C:\Users\User\Pictures\Screenshots)
+
 
 
