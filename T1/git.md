@@ -28,6 +28,13 @@ _Configura tu nombre y correo electrÃ³nico en Git. Se usan para identificar quiÃ
   
 - __git pull__ -> _Descarga y fusiona los cambios del repositorio remoto en tu rama actual._
 
+## Ejemplos
+
+- ![1](https://github.com/zamorajimenezalvaro-create/EED-NDT/blob/main/T1/img/Captura%20de%20pantalla%202025-10-08%20180144.png)
+
+-![2](https://github.com/zamorajimenezalvaro-create/EED-NDT/blob/main/T1/img/Captura%20de%20pantalla%202025-10-08%20181709.png)
+
+
 
 
 
