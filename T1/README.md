@@ -1,5 +1,5 @@
 # Índice de contenidos
 
-## -[Git](./git.md)
+## - [Git](./git.md)
 
-## -[Markdown](./markdown.md)
+## - [Markdown](./markdown.md)
