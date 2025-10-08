@@ -1,6 +1,6 @@
 # [Diapositivas tema 1](https://aula.ndtvirtual.com/inicio/pluginfile.php/19561/mod_resource/content/1/T0%20-%20Git%20%20Github.pdf)
 
-# Comandos
+## Comandos
 
 - __git config --global user.name "Tu Nombre"__
 
@@ -27,3 +27,4 @@ _Configura tu nombre y correo electr√≥nico en Git. Se usan para identificar qui√
 - __git push origin <rama>__ -> _Sube tus commits al repositorio remoto (por ejemplo, GitHub)._
   
 - __git pull__ -> _Descarga y fusiona los cambios del repositorio remoto en tu rama actual._
+
