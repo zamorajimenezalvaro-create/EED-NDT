@@ -1,3 +1,3 @@
 # [Tema 1 :](./T1/) _como usar github y markdown._
-# [Tema 2](./T2/)
+# [Tema 2 :](./T2/) 
 
