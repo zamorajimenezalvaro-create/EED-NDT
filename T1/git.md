@@ -10,7 +10,7 @@ _Configura tu nombre y correo electrónico en Git. Se usan para identificar qui�
 
 - __git init__ -> _Crea un nuevo repositorio Git en el directorio actual._
   
-- __git clone <url-del-repositorio>__ -> _Copia un repositorio remoto completo en tu máquina local._
+- __git clone "url-del-repositorio"__ -> _Copia un repositorio remoto completo en tu máquina local._
   
 - __git status__ -> _Muestra que archivos han cambiado._
   
@@ -33,6 +33,7 @@ _Configura tu nombre y correo electrónico en Git. Se usan para identificar qui�
 ![1](https://github.com/zamorajimenezalvaro-create/EED-NDT/blob/main/T1/img/Captura%20de%20pantalla%202025-10-08%20180144.png)
 
 ![2](https://github.com/zamorajimenezalvaro-create/EED-NDT/blob/main/T1/img/Captura%20de%20pantalla%202025-10-08%20181709.png)
+
 
 
 
